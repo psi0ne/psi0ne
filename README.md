@@ -12,7 +12,3 @@ Passionate back-end developer.
   <br/>
   <img src="https://komarev.com/ghpvc/?username=psi0ne&color=blueviolet"/>
 </p>
-
-# Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=psi0ne&show_icons=true&theme=radical"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psi0ne&layout=compact&theme=radical">
